@@ -1,0 +1,14 @@
+{
+  "name": "async-task-manager",
+  "version": "1.0.1",
+  "description": "Async Task Manager simplifies task execution and make more maintainability",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ahamad Waheed",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
